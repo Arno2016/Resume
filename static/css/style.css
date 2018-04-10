@@ -194,7 +194,6 @@ progress::-moz-progress-value {
     background-image:url('https://raw.githubusercontent.com/Arno2016/xuzhihui-resume/master/static/image/my.png');
     background-size: 110%;
     background-position:center;
-    /*border-radius:50%;*/
     border:3px solid #607d8b;
     width:100px;
     height:130px;
