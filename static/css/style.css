@@ -24,6 +24,7 @@
 .icon-playlistadd:before { content: "\ecae"; }
 .icon-delete:before { content: "\e61b"; }
 .icon-trophy:before { content: "\e80b"; }
+.icon-contentpaste:before { content: "\eaf4"; }
 
 span {
     display: inline-block;
@@ -192,7 +193,8 @@ progress::-moz-progress-value {
     margin: 0 auto;
     margin-top:20px;
     margin-bottom: 10px;
-    background-image:url('https://raw.githubusercontent.com/Arno2016/xuzhihui-resume/master/static/image/my.png');
+    /*background-image:url('https://raw.githubusercontent.com/Arno2016/xuzhihui-resume/master/static/image/my.png');*/
+    background-image:url('../../static/image/my.png');
     background-size: 110%;
     background-position:center;
     border:3px solid #607d8b;
@@ -215,6 +217,7 @@ progress::-moz-progress-value {
     background-color: whitesmoke;
     padding-left: 20px;
     padding-right: 20px;
+    padding-bottom: 25px;
 }
 
 .main {
